@@ -7,7 +7,7 @@ Projeto de uma wiki dos personagens de One Piece na 10ª edição da **SEMANA DO
 O projeto consiste em simular uma wiki dos personagens de One Piece.
 
 ## Layout web
-![Web 1]()
+![Web 1](https://raw.githubusercontent.com/HeroLeam/szpc10-projeto-onepiece/main/src/assets/web.gif)
 
 # Tecnologias utilizadas
 ## Front end

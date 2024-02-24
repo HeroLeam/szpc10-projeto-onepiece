@@ -17,6 +17,6 @@ O projeto consiste em simular uma wiki dos personagens de One Piece.
 
 # Autor
 
-Thiago Leoni Amaral
+Thiago Leoni Amaral aka Heroleam
 
-https://linktr.ee/heroleam
+https://heroleam.github.io/herofield
